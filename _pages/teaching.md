@@ -2,11 +2,26 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: classes, materials
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+<article>
+    <h3>University of Colorado Boulder</h3>
+    <div class="container p-3 my-3">
+        <a href="https://experts.colorado.edu/display/coursename_CSCI-3155">CSCI 3155: Principles of Programming Languages</a><br>
+        <b>Position:</b> Teaching Assistant<br>
+        <b>Term:</b> Spring 2023
+    </div>
+    <div class="container p-3 my-3">
+        <a href="https://experts.colorado.edu/display/coursename_CSCI-3155">CSCI 3155: Principles of Programming Languages</a><br>
+        <b>Position:</b> Teaching Assistant<br>
+        <b>Term:</b> Fall 2022
+    </div>
+    <div class="container p-3 my-3">
+        <a href="https://experts.colorado.edu/display/coursename_CSCI-3155">CSCI 3155: Principles of Programming Languages</a><br>
+        <b>Position:</b> Teaching Assistant<br>
+        <b>Term:</b> Spring 2022
+    </div>
+</article>

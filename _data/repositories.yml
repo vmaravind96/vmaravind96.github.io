@@ -1,12 +1,9 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - vmaravind96
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sammy22/sudoku-CNN
+  - vmaravind96/MusicGeneration
+  - vmaravind96/NetflixMovieRecommendation
+  - vmaravind96/FileSystem
+  # - vrragul1405043/CU_BRATS_2022
