@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
     <p>University of Colorado</p>
-    <p>Boulder, CO 80301</p>
+    <p>Boulder, CO 80309</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
