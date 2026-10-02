@@ -16,7 +16,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'uri', '< 1.0' # Ruby 3.0.2 default gem is 0.10.x; newer versions break bundler in CI
+    gem 'uri', '0.10.1' # must match the uri default gem bundled with Ruby 3.0.2, or bundler fails in CI
 end
 group :other_plugins do
     gem 'httparty'
