@@ -16,6 +16,7 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'uri', '< 1.0' # Ruby 3.0.2 default gem is 0.10.x; newer versions break bundler in CI
 end
 group :other_plugins do
     gem 'httparty'
