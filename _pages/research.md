@@ -10,6 +10,18 @@ nav_order: 3
 <article>
     <h3>University of Colorado Boulder</h3>
     <div class="container p-3 my-3">
+        <h4><a href="#">Optimal Behavior Models for Shared Controls</a></h4>
+        <h6>Research Assistant - Spring 2023</h6>
+        <p><b>Advisor:</b> Prof. Sriram Sankaranarayanan</p>
+        <div class="container">
+            <ul>
+                <li> Developed a lane-following <b>PID controller</b> for a Bicycle robot model.</li>
+                <li> Conducted experiments with various scenarios for the following vehicle like controller-only, human-only and shared-driving modalities and observed the behavior pattern with respect to velocity and stopping distance.</li>
+                <li> Explored the <b>Z3</b> tool to model an obstacle avoiding use case.</li>
+            </ul>
+        </div>
+    </div>
+    <div class="container p-3 my-3">
         <h4><a href="#">Modelling Controllers for Cyber Physical Systems using Neural Networks</a></h4>
         <h6>Independent Study - Fall 2022</h6>
         <p><b>Advisor:</b> Prof. Sriram Sankaranarayanan</p>
@@ -27,7 +39,7 @@ nav_order: 3
         <p><b>Advisor:</b> Prof. Geena Kim</p>
         <div class="container">
             <ul>
-                <li>  As part of the BraTS challenge, explored novel techniques and techniques for effectively segmenting brain tumors.</li>
+                <li>  As part of the BraTS challenge, explored novel techniques for effectively segmenting brain tumors.</li>
                 <li> In-depth examination of the reasons why the current Deep InfoMax strategy failed to outperform a traditional U-net-based architecture.</li>
                 <li> Adopted the multi-scale dense U-net (MDU-net) architecture, which produced encouraging outcomes.</li>
             </ul>
